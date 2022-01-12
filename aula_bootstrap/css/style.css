@@ -6,7 +6,6 @@ body{
 .navbar{
     background-color: #e0f7fa;
     
-  
 }
 
 .logo{
@@ -23,6 +22,17 @@ body{
     margin: 0;
     padding: 0;
     max-height: auto;
+}
+
+.servicos{
+    background-color:  #26a69a ;
+    max-height: auto;
+}
+.text-servicos{
+    text-align: center;
+    font-size: 16px;
+    text-justify: left;
+
 }
 .img-parceiro{
     max-height: 60%;
@@ -46,3 +56,8 @@ h3{
     margin:15px;
 }
 
+.bg_footer{
+    background-color: #b71c1c;
+    font-weight: bold;
+    font-size: 25px;
+}
