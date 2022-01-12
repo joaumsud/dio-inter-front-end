@@ -1,0 +1,70 @@
+body{
+    background: #505050;
+    border: 2px;
+    max-width: 900px;
+    margin:auto;
+}
+.post{
+    background: #fcfcfc;
+    padding: 10px;
+    border: 10px solid blueviolet;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+
+.imagem_eu{
+    border: 5px solid mediumaquamarine;
+    border-radius: 50%;
+    margin: 10px;
+    justify-content: left;
+}
+
+h1, h2, h3 {
+    font-family:  'Verdana', 'Lucida Sans';
+}
+#title {
+    font-size: 40px;
+    color: midnightblue;
+    font-style: italic;
+    text-align: center;
+    margin:10px;
+    padding: 10px;
+}
+
+.subtitle{
+    font-size: 35px;
+    color: darkgreen;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+.post_title{
+    font-size: 20;
+    color: goldenrod;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.post_content{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cambria', 'Verdana';
+    text-align: justify;
+    font-size: 18px;
+
+}
+
+.tecnology{
+    margin-bottom: 15px;
+    width: 100%;
+    
+}
+.post_list{
+    list-style-type: none;
+    font-weight: bold;
+    color: honeydew;
+    font-size: 24px;
+    text-align: left;
+    margin-left: 10px;
+    padding: 0;
+}
