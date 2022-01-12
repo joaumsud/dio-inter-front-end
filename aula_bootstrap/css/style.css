@@ -1,3 +1,48 @@
-.navbar{
-    background-color: red;
+body{
+    font: 20px, 'Arial Serif', 'Verdana';
+    color: whitesmoke;
+   
 }
+.navbar{
+    background-color: #e0f7fa;
+    
+  
+}
+
+.logo{
+    margin-left: 50px ;
+    margin-bottom: 0;
+}
+
+.quem-somos{
+    background-color: #1e88e5;
+    max-height: auto;
+}
+.parceiros{
+    background-color:  #663366;  
+    margin: 0;
+    padding: 0;
+    max-height: auto;
+}
+.img-parceiro{
+    max-height: 60%;
+    max-width: 60%;
+    margin:15px;
+    padding: 15px;
+    justify-content: center;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+h3{
+    padding: 0;
+    margin: 0;
+}
+.img-redonda{
+    width: 10%;
+    height: 10%;
+    margin:15px;
+}
+
